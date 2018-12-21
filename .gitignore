@@ -1,0 +1,6 @@
+*.stl
+*.gcode
+*.x3g
+*.pyc
+__pycache__
+core
